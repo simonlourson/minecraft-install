@@ -23,10 +23,16 @@ https://fabricmc.net/wiki/player:tutorials:install_multimc:windows
 
 3. Drop your mods.jar files into MultiMC/instances/Fabric 1.18/.minecraft/mods
 
+Some cool texture packs :
+- https://bdcraft.net/downloads/vanillabdcraft-minecraft/ if you want something classic
+- https://bdcraft.net/downloads/purebdcraft-minecraft/ if you want UTTINI
+
 Some useful client-only mods :
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files), necessary for most Fabric mods
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu/files), shows what mods you have installed and their settings
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tags), a new renderer that vastly outperforms the vanilla one
 - [What The Hell Is This](https://www.curseforge.com/minecraft/mc-mods/wthit/files), shows info about the block you're looking at
-- [Xaero Minimap] (https://chocolateminecraft.com/minimapdownload.php), a minimap mod
+- [Xaero's Minimap] (https://chocolateminecraft.com/minimapdownload.php), a minimap mod
+
+Caca
