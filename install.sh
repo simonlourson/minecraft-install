@@ -93,6 +93,8 @@ make
 sudo make install
 
 mcrcon -H 127.0.0.1 -P 25575 -p caca "whitelist add LouisLOurson"
+mcrcon -H 127.0.0.1 -P 25575 -p caca "whitelist add BiquetteLubrique"
+
 
 ### Mods ###
 # https://fabricmc.net/wiki/install
@@ -109,9 +111,13 @@ sudo mv /home/ubuntu/Dynmap-3.3-SNAPSHOT-fabric-1.18.jar ./
 sudo chown minecraft:minecraft Dynmap-3.3-SNAPSHOT-fabric-1.18.jar
 sudo mv /home/ubuntu/fabric-api-0.44.0+1.18.jar ./
 sudo chown minecraft:minecraft fabric-api-0.44.0+1.18.jar
+sudo mv /home/ubuntu/lithium-fabric-mc1.18-0.7.6-rc1.jar /opt/minecraft/server/mods/lithium-fabric-mc1.18-0.7.6-rc1.jar
+sudo chown minecraft:minecraft /opt/minecraft/server/mods/lithium-fabric-mc1.18-0.7.6-rc1.jar
 
 sudo mv /home/ubuntu/VanillaBDcraft32xMC118.zip /opt/minecraft/server/dynmap/texturepacks/VanillaBDcraft32xMC118.zip
 sudo chown minecraft:minecraft /opt/minecraft/server/dynmap/texturepacks/VanillaBDcraft32xMC118.zip
+
+
 
 sudo nano custom-shaders.txt
 ###
