@@ -29,4 +29,4 @@ Some useful client-only mods :
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu/files), shows what mods you have installed and their settings
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tags), a new renderer that vastly outperforms the vanilla one
 - [What The Hell Is This](https://www.curseforge.com/minecraft/mc-mods/wthit/files), shows info about the block you're looking at
-- [Xaero's Minimap] (https://chocolateminecraft.com/minimapdownload.php), a minimap mod
+- [Xaero Minimap] (https://chocolateminecraft.com/minimapdownload.php), a minimap mod
