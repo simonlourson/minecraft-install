@@ -76,6 +76,7 @@ sudo systemctl enable minecraft
 sudo systemctl start minecraft
 sudo systemctl stop minecraft
 sudo systemctl status minecraft
+journalctl -u minecraft -b -f
 
 # in security group allow incomin tcp 25565
 
